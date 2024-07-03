@@ -1,0 +1,8 @@
+Beams:eCM = 5020.0  ! 5.02 TeV CM collision energy
+
+WeakBosonAndParton:qqbar2gmZg = on  ! Enable Z+jet production
+
+PartonLevel:ISR = off   ! initial-state radiation
+PartonLevel:FSR = off   ! final-state radiation
+PartonLevel:MPI = off   ! multiparton interactions
+HadronLevel:all = on    ! hadronization and decays
